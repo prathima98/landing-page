@@ -1,0 +1,48 @@
+.container-one {
+    float: right;
+    margin-right: 10px;
+}
+.container-two {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.text-section {
+    flex: 1;
+    margin-right: 20px;
+}
+#p-one {
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}
+.container-three {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.container-four {
+    display: flex;
+    flex-direction: column;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#p-two {
+    text-align: right;
+    font-size: 14px;
+    color: #666;
+}
+.container-five {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-section-two {
+    margin-right: 20px;
+}
+#p-three {
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}
